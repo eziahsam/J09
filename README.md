@@ -7,7 +7,10 @@ new line from git hub
 
 rd line
 
+<<<<<<< Updated upstream
 
 new changes from hub
 git stash
->>>>>>> Stashed changes
+git stash
+
+git stash list
