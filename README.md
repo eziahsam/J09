@@ -14,3 +14,5 @@ git stash
 git stash
 
 git stash list
+
+git stash apply
